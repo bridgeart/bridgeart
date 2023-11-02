@@ -1,0 +1,1 @@
+The bridgeart git repo contains supplementary information for bridgeart.net software database available at https://www.bridgeart.net
